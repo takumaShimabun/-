@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="インボイス番号検索ツール.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AutoUpdaterServerFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\sms002\99システム室_文書\3_プログラム\C#\配布\インボイス番号検索ツール</Value>
+    </Setting>
+    <Setting Name="AutoUpdaterProjectFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">インボイス番号検索ツール.exe</Value>
+    </Setting>
+    <Setting Name="AutoUpdaterOldProjectFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">インボイス番号検索ツール.old</Value>
+    </Setting>
+    <Setting Name="ThemeColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="StrCustomColors" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UnZipperDefaultPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\dev001\C$\data\適格請求書発行事業者公開データ取込\*</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
